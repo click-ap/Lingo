@@ -48,7 +48,7 @@
     "history": "~4.7.2",
     "immutability-helper": "~2.8.1",
     "langmap": "0.0.16",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "makeup-screenreader-trap": "0.0.5",
     "memwatch-next": "^0.3.0",
     "meteor-node-stubs": "^0.4.1",
